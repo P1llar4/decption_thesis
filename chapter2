@@ -1,0 +1,90 @@
+# Chapter 2
+
+# Theoretical Foundations: Definitions, Consent, and Epistemic Harm
+
+> *"The beginning of wisdom is the definition of terms."* — Attributed to Socrates
+
+## 2.1 Introduction
+
+Having established the central research problem in Chapter 1, the analysis now turns toward the conceptual foundations upon which the dissertation is constructed. Before deception can be evaluated ethically, its constituent components must first be defined with sufficient precision to permit consistent analysis across diverse contexts. Although deception is frequently discussed within philosophy, psychology, law, political science, and communication studies, these disciplines often employ different terminology and emphasize distinct mechanisms of harm. Consequently, ambiguity surrounding key concepts has limited the development of a unified ethical framework capable of evaluating deception irrespective of institutional setting.
+
+This chapter addresses that limitation by establishing the conceptual vocabulary used throughout the remainder of the dissertation. Rather than treating deception solely as an act of lying, the proposed framework understands deception as a broader disruption of another person's capacity to construct an accurate model of reality. Such disruptions may occur through false statements, selective omission, manipulation of evidence, institutional secrecy, algorithmic filtering, emotional coercion, or structural barriers to verification. What unites these otherwise distinct practices is not their specific method but their effect upon autonomous decision-making.
+
+Accordingly, this chapter introduces five foundational concepts that collectively define the theoretical architecture of the dissertation:
+
+* informed consent;
+* epistemic agency;
+* epistemic harm;
+* informational asymmetry; and
+* the Consent Threshold.
+
+Together, these concepts establish the analytical framework through which subsequent chapters evaluate interpersonal, governmental, institutional, and technological deception. Rather than functioning as isolated definitions, they represent interdependent components of a broader ethical model centered upon the preservation of autonomous agency.
+
+Building upon these definitions, the chapter subsequently introduces the distinction between ordinary informational inequality and ethically significant deception before concluding with the dissertation's central evaluative criterion: the Consent Threshold.
+
+---
+
+# 2.2 Defining Deception
+
+The concept of deception has occupied philosophers for centuries, yet no universally accepted definition exists. Traditional philosophical accounts generally define deception as the intentional creation of false beliefs in another individual through either direct lying or deliberate omission (Bok, 1978). Communication scholars frequently emphasize manipulation of information, whereas legal scholars often focus upon fraud, material misrepresentation, or failure to disclose information when a duty to disclose exists.
+
+Although these perspectives capture important aspects of deceptive behavior, they remain insufficient for evaluating complex informational environments in which deception frequently occurs without explicit falsehoods. Contemporary societies increasingly rely upon information ecosystems shaped by selective disclosure, algorithmic curation, institutional secrecy, strategic ambiguity, and asymmetric access to knowledge. Within such environments, individuals may be profoundly misled even when every individual statement presented is technically accurate.
+
+This dissertation therefore adopts a broader functional definition.
+
+**Definition 2.1**
+
+> **Deception is the intentional manipulation, distortion, suppression, or selective presentation of information in a manner that predictably interferes with another agent's ability to construct an accurate understanding of reality for purposes of autonomous decision-making.**
+
+Several features distinguish this definition from narrower conceptions.
+
+First, deception encompasses both commission and omission. Falsehoods represent only one mechanism through which reality may be distorted. Equally significant are circumstances in which materially relevant information is intentionally withheld from those whose decisions depend upon it.
+
+Second, deception is evaluated according to its consequences for agency rather than merely its communicative form. A technically truthful statement may nevertheless function deceptively if presented within a context intentionally designed to conceal material facts.
+
+Third, deception is understood as relational. Information possesses ethical significance not in isolation but relative to the decisions faced by particular individuals. The same information may therefore require disclosure in one context while remaining ethically irrelevant in another.
+
+This broader conceptualization enables consistent evaluation across diverse institutional settings where deception rarely manifests as straightforward lying.
+
+---
+
+# 2.3 Information, Knowledge, and Agency
+
+Human beings navigate their environments by constructing internal representations of external reality. These cognitive models allow individuals to anticipate consequences, evaluate alternatives, identify threats, and coordinate behavior with others. Decision-making therefore depends not upon perfect knowledge but upon sufficiently accurate approximations of reality.
+
+Research within cognitive psychology suggests that humans continuously update these mental models through processes of prediction and error correction. New information modifies existing beliefs, allowing individuals to adapt behavior in response to changing environmental conditions. Although these models are inevitably incomplete, they remain indispensable for effective action.
+
+Autonomy consequently depends upon epistemic accuracy.
+
+When individuals possess materially accurate information regarding available choices, foreseeable risks, and probable outcomes, they retain meaningful control over their decisions. Conversely, systematic distortion of relevant information interferes with this adaptive process, increasing the probability that decisions will diverge from the individual's authentic preferences or interests.
+
+This relationship between information and agency extends beyond individual cognition. Democratic participation, contractual agreements, medical treatment, financial transactions, and religious commitment all presuppose that individuals possess sufficient information to evaluate available alternatives. Without adequate informational foundations, choice becomes increasingly symbolic rather than substantive.
+
+Accordingly, information should not be viewed merely as a resource but as an enabling condition for autonomy itself.
+
+---
+
+# 2.4 Informed Consent as the Foundation of Agency
+
+Few concepts occupy a more central position within contemporary ethics than informed consent. Initially developed within medical ethics following the atrocities revealed during the Nuremberg Trials, informed consent has since become a foundational principle governing healthcare, scientific research, legal contracts, and numerous other domains involving autonomous decision-making (Nuremberg Code, 1947; Belmont Report, 1979).
+
+At its core, informed consent recognizes that individuals possess moral authority over decisions affecting their own bodies, interests, and lives. Respecting this authority requires more than simply offering a choice; it requires ensuring that the choice is meaningfully informed.
+
+Contemporary bioethical literature generally identifies several necessary conditions for valid informed consent (Beauchamp & Childress, 2019):
+
+* adequate disclosure of relevant information;
+* comprehension of disclosed information;
+* voluntary decision-making free from coercion;
+* decision-making competence; and
+* explicit authorization.
+
+Failure of any one component weakens the ethical validity of consent.
+
+This dissertation extends the underlying logic of informed consent beyond medicine. If informed consent protects bodily autonomy in healthcare, analogous principles should likewise protect informational autonomy in governmental, institutional, technological, and interpersonal contexts.
+
+For example, citizens cannot meaningfully consent to governmental policies whose existence remains classified. Employees cannot evaluate occupational risks intentionally concealed by employers. Religious adherents cannot fully exercise spiritual autonomy if foundational historical information is systematically withheld. Likewise, intimate partners cannot make authentic personal decisions when reality itself is deliberately manipulated through deception.
+
+Across each context, the underlying ethical structure remains remarkably similar: consent requires adequate access to materially relevant information.
+
+Accordingly, informed consent functions throughout this dissertation not merely as a biomedical doctrine but as the broader ethical foundation upon which legitimate social relationships depend.
+
