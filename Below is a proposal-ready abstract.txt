@@ -1,0 +1,595 @@
+Below is a proposal-ready abstract and a fuller dissertation proposal built from the revised, more defensible version of your framework.
+
+# Abstract
+
+## *The Architecture of Deception: A Manifesto for Epistemic Liberation*
+
+This dissertation examines the relationship between intentional informational distortion, informed consent, epistemic agency, and autonomous decision-making. It asks under what conditions the deliberate withholding, manipulation, or misrepresentation of materially relevant information compromises an individual's ability to make an informed and autonomous choice. Rather than treating deception as inherently autonomy-destroying or attempting to resolve the metaphysical question of free will, the dissertation develops **Consent Threshold Theory**, a normative framework for identifying when informational interference becomes sufficiently material to compromise informed authorization.
+
+Consent Threshold Theory distinguishes between two analytically separate questions: whether a disclosure violation has occurred and whether that violation materially impaired the decision-maker's agency. The proposed threshold evaluates five conditions: **decision relevance, significance, accessibility, counterfactual decision relevance, and intentionality**. This structure is designed to distinguish autonomy-compromising deception from ordinary uncertainty, accidental misinformation, legitimate confidentiality, harmless deception, and situations in which an individual independently possesses and understands the relevant information.
+
+Methodologically, the dissertation is an interdisciplinary applied-ethics study combining normative philosophical analysis, doctrinal analysis, interdisciplinary empirical literature, and structured comparative case analysis. Cases are selected for theoretical variation across interpersonal, governmental, and institutional contexts, including positive cases, exclusion cases, and boundary cases capable of challenging or limiting the proposed framework. Empirical research is used to establish descriptive premises and contextual facts rather than to establish normative conclusions or metaphysical claims about free will.
+
+The dissertation's principal contribution is therefore one of **synthesis, specification, and operationalization**. It connects established accounts of autonomy, informed consent, epistemic injustice, trust, transparency, and reasons-responsive agency through a decision-specific materiality threshold. The resulting framework proposes that deliberate informational interference becomes an autonomy problem when it materially compromises the decision-maker's ability to understand relevant circumstances, evaluate consequential risks or alternatives, or meaningfully authorize the decision. The dissertation concludes by examining the conditions under which disclosure, verification, correction, and epistemic repair may restore the conditions necessary for informed judgment while recognizing legitimate constraints arising from privacy, confidentiality, safety, uncertainty, and competing rights.
+
+# Dissertation Research Proposal
+
+## *The Architecture of Deception: A Manifesto for Epistemic Liberation*
+
+### 1. Introduction
+
+Human beings make decisions under conditions of incomplete information. No individual possesses complete knowledge of the world, and autonomous decision-making therefore cannot reasonably require perfect knowledge or an objectively complete representation of reality. The ethical problem examined in this dissertation is narrower: **what happens when an actor deliberately controls information that another person materially needs in order to make a consequential decision?**
+
+Deception has traditionally been examined through several partially overlapping philosophical and disciplinary frameworks. Moral philosophy considers deception in relation to duties, autonomy, and respect for persons. Epistemology examines the distribution of knowledge and the conditions under which individuals can function as knowers. Bioethics addresses informed consent and disclosure. Political philosophy examines transparency, legitimacy, and accountability. Law distinguishes among disclosure duties, confidentiality, fraud, coercion, and consent. Psychology and neuroscience investigate the cognitive and behavioral consequences of deception and manipulation.
+
+These literatures provide substantial resources for understanding informational power. However, the concepts are not always integrated into a common decision-level framework capable of distinguishing when information control merely constitutes deception from when it materially compromises autonomous authorization.
+
+This dissertation proposes **Consent Threshold Theory** as such a framework.
+
+The theory does not claim that deception universally eliminates free will. Nor does it assume that every omission, secret, inaccurate belief, or informational asymmetry constitutes an autonomy violation. Instead, it proposes a narrower normative threshold for determining when intentional informational interference becomes relevant to the validity of informed consent.
+
+The project examines this question across three principal domains:
+
+1. **Interpersonal:** deception affecting bodily autonomy, psychological independence, and personal decision-making.
+2. **Governmental:** information control affecting public accountability and citizens' ability to evaluate governmental action.
+3. **Institutional:** control of historical, archival, intellectual, or foundational information affecting independent judgment and institutional allegiance.
+
+The domains are not assumed to be morally or empirically identical. Their purpose is to provide theoretically varied environments in which the proposed framework can be examined, challenged, and refined.
+
+---
+
+# 2. Research Problem
+
+The central research problem is the lack of a sufficiently bounded framework for distinguishing **deception as a communicative act** from **deception as an intervention in another person's capacity for informed choice**.
+
+A person may be deceived without losing their ability to reason. Conversely, an individual may possess considerable reasoning capacity while being denied information necessary to exercise that capacity in a particular decision.
+
+This distinction raises a fundamental question:
+
+> **When does informational interference become sufficiently material that the resulting decision can no longer reasonably be characterized as fully informed or autonomous?**
+
+The problem is complicated by several factors.
+
+First, information is almost always incomplete.
+
+Second, informational asymmetry is not inherently unethical.
+
+Third, confidentiality can be legitimate.
+
+Fourth, deception can sometimes occur without materially affecting a decision.
+
+Fifth, the person making a decision may independently obtain the information that another actor attempted to withhold.
+
+Sixth, retrospective judgments about what information “would have mattered” can be vulnerable to hindsight bias.
+
+A useful theory must therefore provide a threshold that is sufficiently demanding to exclude ordinary cases while sufficiently flexible to accommodate contextual differences.
+
+---
+
+# 3. Central Research Question
+
+> **Under what conditions does intentional withholding or distortion of materially relevant information compromise informed consent and autonomous decision-making, and how can those conditions be identified through a defensible, decision-specific threshold?**
+
+## Subquestions
+
+1. How should autonomy and informed consent be conceptually related to epistemic agency?
+2. What makes information materially relevant to a particular decision?
+3. What distinguishes intentional informational interference from ordinary uncertainty, error, confidentiality, or harmless deception?
+4. Does material deception invalidate consent automatically, or must it also materially impair the decision-maker's epistemic position?
+5. How do power asymmetries influence the ethical significance of informational control?
+6. How does the framework operate differently across interpersonal, governmental, and institutional settings?
+7. Under what circumstances can disclosure or epistemic repair restore conditions for autonomous decision-making?
+8. What cases should the theory exclude?
+
+---
+
+# 4. Proposed Theoretical Contribution
+
+The dissertation's central contribution is **Consent Threshold Theory**.
+
+The theory proposes that informational interference should not be treated as an autonomy violation merely because information was withheld. Instead, the analysis should ask whether the withheld or distorted information satisfies a defined set of conditions.
+
+The theory separates two questions:
+
+### A. Disclosure Violation
+
+Was materially relevant information intentionally withheld, distorted, or misrepresented?
+
+### B. Agency Impairment
+
+Did that informational interference materially impair the person's ability to understand, evaluate, or authorize the decision?
+
+This distinction is critical.
+
+A person can experience an unethical disclosure failure without necessarily making an uninformed decision.
+
+Conversely, information control can become an autonomy problem when it materially changes the epistemic conditions under which the person must decide.
+
+---
+
+# 5. The Consent Threshold
+
+The proposed framework evaluates five conditions.
+
+## 5.1 Decision Relevance
+
+The information must relate directly to the decision being made.
+
+Information that is merely interesting, tangential, or retrospectively relevant does not satisfy this condition.
+
+## 5.2 Significance
+
+The information must concern a consequential risk, benefit, alternative, condition, or characteristic of the decision.
+
+The framework therefore rejects the proposition that every undisclosed fact is automatically material.
+
+## 5.3 Accessibility
+
+The analysis must consider whether the information was reasonably accessible through independent means.
+
+If the decision-maker independently possesses the relevant information and understands it before deciding, deliberate withholding by another actor may constitute misconduct without necessarily compromising informed consent.
+
+## 5.4 Counterfactual Decision Relevance
+
+There must be credible grounds for concluding that knowledge of the information could reasonably affect the person's evaluation of the decision.
+
+This does not require proving that the person definitely would have chosen differently.
+
+It requires establishing that the information was consequential enough that its absence could reasonably affect deliberation.
+
+## 5.5 Intentionality
+
+The information must have been deliberately withheld, distorted, or manipulated.
+
+Accidental misinformation, ignorance, uncertainty, and ordinary communicative error therefore fall outside the core theory.
+
+---
+
+# 6. Boundary Condition
+
+The framework's strongest limiting principle is that **materiality alone is insufficient**.
+
+Consider a physician who deliberately fails to disclose a material risk, while the patient independently discovers the same risk through a reliable source before making the decision.
+
+The physician may have violated a disclosure obligation.
+
+However, if the patient understands the risk, evaluates the alternatives, and incorporates the information into the decision, Consent Threshold Theory should not automatically classify the consent as invalid.
+
+This case demonstrates why the theory distinguishes:
+
+> **A violation of the duty to disclose**
+
+from
+
+> **a material impairment of autonomous decision-making.**
+
+The distinction prevents the theory from collapsing every ethical failure into an autonomy violation.
+
+---
+
+# 7. Relationship to Existing Scholarship
+
+The dissertation positions Consent Threshold Theory as a **synthesis, specification, and operationalization** of existing philosophical work rather than as a claim that the underlying concepts are unprecedented.
+
+### Miranda Fricker
+
+Fricker's work on epistemic injustice provides an important account of how social power can undermine a person's status and capacity as a knower.
+
+The proposed theory builds upon this insight but shifts the analytical focus toward the **decision threshold**: when does informational injustice become sufficiently material to compromise a particular act of authorization?
+
+### Onora O'Neill
+
+O'Neill's work concerning trust, transparency, communication, and ethical institutional relationships provides important resources for understanding why information practices matter to autonomy and accountability.
+
+Consent Threshold Theory extends this concern by asking how informational conditions affect the validity of a specific decision.
+
+### Joseph Raz
+
+Raz's account of autonomy and meaningful choice provides a foundation for understanding autonomy in terms of genuine opportunities and reasons-responsive action.
+
+Consent Threshold Theory incorporates this concern while emphasizing the informational conditions required for those choices to be meaningfully evaluated.
+
+### Informed-Consent Literature
+
+Bioethical scholarship establishes extensive requirements concerning disclosure, capacity, voluntariness, understanding, and authorization.
+
+The proposed framework extends this tradition by asking whether its underlying principles can be generalized cautiously across nonmedical domains without erasing important contextual differences.
+
+---
+
+# 8. Methodology
+
+## 8.1 Research Design
+
+The dissertation is an **interdisciplinary normative applied-ethics study** incorporating four methodological components:
+
+1. Normative philosophical analysis.
+2. Doctrinal analysis.
+3. Structured comparative case analysis.
+4. Interdisciplinary empirical literature as evidence for descriptive premises.
+
+The methodology is intentionally pluralistic because the research question contains both normative and descriptive dimensions.
+
+---
+
+## 8.2 Normative Analysis
+
+Normative analysis constitutes the primary methodology.
+
+It will:
+
+* Define the relevant concepts.
+* Establish relationships among autonomy, consent, information, and agency.
+* Develop the Consent Threshold.
+* Examine competing ethical theories.
+* Analyze objections and counterexamples.
+* Identify necessary and sufficient conditions where possible.
+* Establish limitations and boundary conditions.
+
+The normative argument will not claim empirical proof.
+
+---
+
+## 8.3 Doctrinal Analysis
+
+Legal and institutional materials will be examined where relevant to concepts such as:
+
+* informed consent;
+* bodily autonomy;
+* confidentiality;
+* disclosure;
+* governmental secrecy;
+* information access;
+* institutional accountability.
+
+Legal doctrine will not be treated as philosophical proof.
+
+Instead, it will demonstrate how actual institutions define and regulate informational duties.
+
+---
+
+## 8.4 Comparative Case Analysis
+
+Cases will be selected according to **theoretical variation rather than confirmation**.
+
+The case set will contain:
+
+### Positive Cases
+
+Cases where the threshold appears strongly satisfied.
+
+### Negative Cases
+
+Cases involving deception or informational asymmetry where the threshold should not be crossed.
+
+### Boundary Cases
+
+Cases where reasonable application of the framework produces genuine uncertainty.
+
+Boundary cases are particularly important because they provide opportunities for falsification, refinement, and limitation of the framework.
+
+---
+
+# 9. Case Selection Principle
+
+The cases will vary across the following dimensions:
+
+| Variable            | Question                                                                          |
+| ------------------- | --------------------------------------------------------------------------------- |
+| Materiality         | Was the information consequential to the decision?                                |
+| Intentionality      | Was withholding or distortion deliberate?                                         |
+| Accessibility       | Could the decision-maker independently obtain the information?                    |
+| Decision dependence | Did the decision actually depend upon the information?                            |
+| Power               | Did one actor possess substantially greater informational or institutional power? |
+| Alternatives        | Could the person realistically choose another course?                             |
+| Consequence         | What was at stake?                                                                |
+| Disclosure          | Could subsequent disclosure restore meaningful agency?                            |
+
+This approach prevents the comparative analysis from becoming a collection of examples selected solely because they confirm the thesis.
+
+---
+
+# 10. Empirical Evidence
+
+Empirical literature will be used carefully.
+
+Neuroscience, psychology, behavioral research, and other empirical studies may establish facts concerning:
+
+* cognitive processing;
+* decision-making;
+* stress;
+* deception;
+* perception;
+* memory;
+* error monitoring;
+* behavioral consequences;
+* institutional information practices.
+
+However, empirical evidence will not be used to establish a normative conclusion automatically.
+
+For example:
+
+> Evidence that deception affects cognitive processing does not by itself establish that consent is ethically invalid.
+
+The normative conclusion requires an additional argument connecting the empirical finding to the theory of autonomy and informed consent.
+
+This distinction preserves claim-method alignment.
+
+---
+
+# 11. Three-Domain Comparative Structure
+
+## Pillar I — Interpersonal Informational Interference
+
+The first domain examines deception affecting personal and bodily autonomy.
+
+Potential cases include:
+
+* clandestine administration of substances;
+* deception concerning bodily risks;
+* coercive information control;
+* sustained manipulation of a person's understanding of events.
+
+The analysis will distinguish documented intentional manipulation from ordinary interpersonal disagreement or mistaken perception.
+
+---
+
+## Pillar II — Governmental Information Control
+
+The second domain examines informational asymmetries between governments and populations.
+
+Potential issues include:
+
+* classification;
+* secrecy;
+* disclosure;
+* public accountability;
+* access to governmental information;
+* institutional justification for withholding information.
+
+The framework will not presume that governmental secrecy is inherently illegitimate.
+
+The central question is whether withholding information prevents affected citizens from meaningfully evaluating decisions, risks, or institutional conduct.
+
+---
+
+## Pillar III — Institutional and Historical Information Control
+
+The third domain examines organizations that possess substantial authority over historical, archival, intellectual, or foundational narratives.
+
+Potential issues include:
+
+* archival restrictions;
+* historical redaction;
+* institutional memory;
+* control of foundational records;
+* intellectual autonomy;
+* authority over competing interpretations.
+
+The analysis will distinguish deliberate suppression from legitimate interpretation, ordinary scholarly disagreement, privacy restrictions, and evidentiary uncertainty.
+
+---
+
+# 12. Epistemic Repair
+
+The dissertation's final theoretical component concerns what happens after informational distortion is identified.
+
+**Epistemic repair** refers to processes through which affected individuals or communities regain the ability to understand relevant circumstances and make informed decisions.
+
+Potential elements include:
+
+1. Disclosure.
+2. Verification.
+3. Independent corroboration.
+4. Correction of false information.
+5. Acknowledgment of the informational injury.
+6. Access to previously unavailable evidence.
+7. Opportunity for reconsideration.
+8. Institutional accountability.
+
+The dissertation does not assume that disclosure automatically restores agency.
+
+Truth can be necessary without being sufficient for repair.
+
+---
+
+# 13. The Witness Question
+
+An additional normative question concerns third parties who possess credible knowledge of informational interference.
+
+The dissertation explores whether and when such individuals have obligations to disclose relevant information.
+
+This question is deliberately constrained.
+
+The theory does not establish that every witness has an unlimited duty to disclose everything they know. Disclosure may be restricted by:
+
+* privacy;
+* confidentiality;
+* safety;
+* uncertainty;
+* evidentiary reliability;
+* competing rights;
+* legal obligations;
+* risk of additional harm.
+
+The proposed **Witness Doctrine** will therefore be evaluated as a conditional ethical framework rather than an absolute mandate.
+
+The central question is:
+
+> **When does a third party's possession of credible, materially relevant information concerning another person's compromised consent generate an ethical obligation to facilitate responsible disclosure or protection?**
+
+---
+
+# 14. Hypotheses and Propositions
+
+Because this is primarily a normative dissertation, the project will distinguish formal hypotheses from normative propositions.
+
+### Proposition 1
+
+Intentional withholding or distortion of materially relevant information can compromise informed consent when it materially impairs the decision-maker's ability to understand, evaluate, or authorize the decision.
+
+### Proposition 2
+
+Intentionality and materiality alone are insufficient to establish invalid consent when the decision-maker independently possesses and understands the relevant information.
+
+### Proposition 3
+
+A framework for informational autonomy must distinguish legitimate confidentiality and ordinary uncertainty from deliberate informational interference that materially compromises decision-making.
+
+### Proposition 4
+
+Responsible disclosure may contribute to epistemic repair when it restores access to reliable information necessary for subsequent autonomous decision-making.
+
+---
+
+# 15. Limitations
+
+The dissertation recognizes several important limitations.
+
+### Metaphysical Free Will
+
+The project does not resolve the philosophical problem of metaphysical free will.
+
+It addresses **informed agency and practical autonomy**.
+
+### Causation
+
+The framework does not claim that every instance of deception causes a measurable loss of agency.
+
+### Generalizability
+
+Comparative cases cannot establish statistical universality.
+
+### Materiality
+
+Materiality requires contextual judgment and cannot always be reduced to a mechanical formula.
+
+### Evidence
+
+Retrospective evidence may be incomplete, contested, or vulnerable to hindsight bias.
+
+### Cross-Domain Comparison
+
+The three domains have different institutional structures and standards. The framework therefore seeks structural comparability rather than identical treatment.
+
+### Epistemic Humility
+
+The theory cannot itself determine which claims about reality are true. It establishes conditions for evaluating whether individuals have been given an adequate opportunity to determine that for themselves.
+
+---
+
+# 16. Expected Contribution
+
+The dissertation is expected to make four contributions.
+
+### Theoretical
+
+It develops Consent Threshold Theory as a structured connection between informed consent, autonomy, epistemic agency, and informational power.
+
+### Conceptual
+
+It distinguishes disclosure violation from agency impairment and materiality from mere information withholding.
+
+### Methodological
+
+It provides a structured approach for evaluating informational interference across substantially different contexts while preserving domain-specific distinctions.
+
+### Practical
+
+It identifies potential criteria for determining when disclosure, verification, correction, or epistemic repair may be ethically warranted.
+
+---
+
+# 17. Significance
+
+The significance of the research lies in reframing an important ethical question.
+
+The relevant question is not simply:
+
+> **“Was someone deceived?”**
+
+It is:
+
+> **“Did someone deliberately manipulate information in a way that materially altered the epistemic conditions under which another person was expected to choose?”**
+
+That distinction matters because deception exists on a spectrum.
+
+A harmless social lie, a confidential institutional decision, an accidental error, a fraudulent omission, and clandestine interference with bodily autonomy cannot reasonably be treated as morally equivalent.
+
+A useful framework must therefore identify the point at which informational control becomes sufficiently consequential to threaten autonomous agency.
+
+Consent Threshold Theory is intended to provide that analytical boundary.
+
+---
+
+# 18. Proposed Dissertation Structure
+
+### Chapter 1 — Introduction
+
+Research problem, question, scope, definitions, contribution, and methodology.
+
+### Chapter 2 — Theories of Autonomy and Agency
+
+Free will, practical autonomy, informed agency, reasons-responsiveness, and decision-making.
+
+### Chapter 3 — Information, Knowledge, and Epistemic Agency
+
+Epistemic injustice, testimony, trust, transparency, knowledge control, and informational asymmetry.
+
+### Chapter 4 — Informed Consent
+
+Historical and philosophical foundations of consent, materiality, disclosure, capacity, voluntariness, and authorization.
+
+### Chapter 5 — Consent Threshold Theory
+
+Formal development of the framework and five-part materiality test.
+
+### Chapter 6 — Methodology
+
+Normative methodology, doctrinal analysis, comparative case selection, empirical premises, and limitations.
+
+### Chapter 7 — Interpersonal Informational Interference
+
+Bodily autonomy, deception, psychological manipulation, and epistemic agency.
+
+### Chapter 8 — Governmental Information Control
+
+Secrecy, classification, transparency, accountability, and public agency.
+
+### Chapter 9 — Institutional and Historical Information Control
+
+Archives, institutional memory, intellectual autonomy, and narrative authority.
+
+### Chapter 10 — Boundary Cases and Counterexamples
+
+Cases where the framework produces ambiguous, unexpected, or negative results.
+
+### Chapter 11 — Epistemic Repair and Disclosure
+
+Truth restoration, verification, witness obligations, accountability, and repair.
+
+### Chapter 12 — Synthesis
+
+Cross-domain comparison, theoretical implications, limitations, and refinement.
+
+### Chapter 13 — Conclusion
+
+Findings, contribution, implications, future research, and final formulation of Consent Threshold Theory.
+
+---
+
+# 19. Conclusion
+
+This dissertation proposes that informational conditions are an important but insufficiently specified component of autonomous decision-making. Individuals do not require perfect knowledge to act autonomously, but they do require sufficient access to information material to consequential decisions.
+
+The central theoretical claim is therefore deliberately limited:
+
+> **When an actor intentionally withholds or distorts information that is materially relevant to a consequential decision, and that informational interference materially impairs the decision-maker's ability to understand, evaluate, or authorize the decision, the resulting consent may no longer qualify as fully informed or autonomous.**
+
+Consent Threshold Theory provides a framework for identifying that condition without treating every deception as an autonomy violation.
+
+Its originality lies in bringing together existing insights concerning autonomy, informed consent, epistemic injustice, trust, transparency, and informational power and translating them into a decision-specific analytical threshold.
+
+The dissertation consequently treats truth not as an unlimited entitlement to total information, but as a condition of **meaningful epistemic agency where information is materially necessary for autonomous choice**.
+
+The resulting framework is intended not to replace existing theories but to provide a structured point of intersection among them—one that can be challenged through counterexamples, refined through comparative analysis, and developed through subsequent empirical research.
